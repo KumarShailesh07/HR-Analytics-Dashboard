@@ -84,11 +84,6 @@ The objective of this project is to help HR and management teams make data-drive
 ## 📂 Project Name
 **HR_Analytics_Dashboard**
 
-This project is suitable for:
-- Data Analyst Portfolio
-- HR Analyst Interview Presentation
-- Excel Dashboard Practice
-- Business Intelligence Learning
 
 ---
 
