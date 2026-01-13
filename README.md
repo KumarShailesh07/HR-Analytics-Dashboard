@@ -30,20 +30,12 @@ To provide a **single interactive view** of organizational workforce analytics t
 
 ---
 
-## 🗂️ File Structure
+## 📁 Description of Folders
 
-HR_Analytics_Dashboard/
-│
-├── Data/
-│   └── HR_Raw_Data.xlsx          # Original employee dataset
-│
-├── Dashboard/
-│   └── HR_Analytics_Dashboard.xlsx   # Final interactive Excel dashboard
-│
-├── Screenshots/
-│   └── Dashboard_View.png       # Preview of final dashboard
-│
-└── README.md                    # Project documentation
+- **Data/**: Contains raw HR data files.
+- **Dashboard/**: Contains the final interactive Excel dashboard.
+- **Screenshots/**: Contains images showing the dashboard view.
+- **README.md**: This documentation file.
 
 ---
 
