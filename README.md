@@ -32,9 +32,9 @@ To provide a **single interactive view** of organizational workforce analytics t
 
 ## 📁 Description of Folders
 
-- **Data/**: Contains raw HR data files.
-- **Dashboard/**: Contains the final interactive Excel dashboard.
-- **Screenshots/**: Contains images showing the dashboard view.
+- **Data**: Contains raw HR data files.
+- **Dashboard**: Contains the final interactive Excel dashboard.
+- **Screenshots**: Contains images showing the dashboard view.
 - **README.md**: This documentation file.
 
 ---
