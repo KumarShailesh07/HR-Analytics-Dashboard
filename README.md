@@ -66,6 +66,11 @@ To provide a **single interactive view** of organizational workforce analytics t
 
 ---
 
+## 📷 Dashboard Preview
+<img width="505" height="328" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/8951a4bc-a1df-4092-ae5e-b571fd120207" />
+
+---
+
 ## 📊 Dashboard Components
 
 ### 1. Gender Distribution (Pie Chart)
