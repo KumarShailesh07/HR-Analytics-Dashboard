@@ -1,10 +1,5 @@
 # HR Analytics Dashboard (Excel)
 
-## 📌 Project Name
-**HR_Analytics_Dashboard**
-
----
-
 ## 📊 Project Overview
 This project is an end-to-end **HR Analytics Dashboard** developed in Microsoft Excel.  
 It transforms raw employee data into meaningful business insights using Pivot Tables, Pivot Charts, KPIs, Slicers, and Timelines.
